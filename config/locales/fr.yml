@@ -23478,7 +23478,7 @@ fr:
         \ de l’aide."
       community_support_forums: "Forums d’assistance de la communauté"
       contact_support: "Contacter l’assistance technique"
-      contact_support_sub_text: "Obtenir de l’aide pour les problèmes urgents"
+      contact_support_sub_text: "Obtenir de l’aide pour les problèmes urgents."
       curriculum_assessment_errata: "Errata dans le programme ou l’évaluation"
       curriculum_assessment_errata_description: "Consultez les erreurs déjà signalées\
         \ pour le programme et l’évaluation. Recherchez « errata »."
@@ -24361,7 +24361,7 @@ fr:
     event: "%{date} à %{time}"
     formats:
       default: "%a, %d %b %Y %H:%M:%S %z"
-      long: " %d %B, %Y %H:%M"
+      long: "%d %B, %Y %H:%M"
       short: "%d %b %H:%M"
       tiny: "%k:%M"
       tiny_on_the_hour: "%k:%M"
@@ -24410,12 +24410,12 @@ fr:
     buenos_aires: "Buenos Aires"
     cairo: "Le Caire"
     canberra: Canberra
-    cape_verde_is: "Île du Cap-Vert"
+    cape_verde_is: "Île du Cap-Vert."
     caracas: Caracas
     casablanca: Casablanca
     central_america: "Amérique centrale"
     central_time_us_canada: "Heure du Centre (États-Unis et Canada)"
-    chatham_is: "Îles Chatham"
+    chatham_is: "Îles Chatham."
     chennai: Chennai
     chihuahua: Chihuahua
     chongqing: Chongqing
@@ -24465,7 +24465,7 @@ fr:
     madrid: Madrid
     magadan: Magadan
     manaus: Manaus
-    marshall_is: "Îles Marshall"
+    marshall_is: "Îles Marshall."
     mazatlan: Mazatlán
     melbourne: Melbourne
     mexico_city: Mexico
@@ -24509,7 +24509,7 @@ fr:
     singapore: Singapour
     skopje: Skopje
     sofia: Sofia
-    solomon_is: " Îles Salomon"
+    solomon_is: "Îles Salomon."
     srednekolymsk: Srednekolymsk
     sri_jayawardenepura: "Sri Jayawardenapura"
     st_petersburg: Saint-Pétersbourg
@@ -24521,7 +24521,7 @@ fr:
     tbilisi: "Tbilissi "
     tehran: Téhéran
     tijuana: Tijuana
-    tokelau_is: "Tokelau "
+    tokelau_is: "Tokelau ."
     tokyo: Tokyo
     ulaan_bataar: Oulan-Bator
     ulaanbaatar: Oulan-Bator
